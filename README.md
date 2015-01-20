@@ -1,5 +1,5 @@
-# colorkit
-ColorKit Mac App - Generate Your CSS Styleguide
+# ColorKit
+Generate Your CSS Styleguide
 
 ![ColorKit](http://screenisland.com/images/colorkit-screenshot.png)
 
